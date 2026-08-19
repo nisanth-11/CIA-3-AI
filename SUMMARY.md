@@ -5,8 +5,8 @@
 | Field | Value |
 |---|---|
 | Course Code | _fill in_ |
-| Group ID | _fill in_ |
-| Member Names | _fill in (3 names)_ |
+| Group ID | _10_ |
+| Member Names | _Nishanth - 2441640, Niharika Nair - 2441638, Ramona Elisha - 2441646_ |
 | Selected Track | Track 4 — Emergency Response Ambulance (Dynamic A\* / Replanning) |
 | GitHub Repository URL | _fill in_ |
 
